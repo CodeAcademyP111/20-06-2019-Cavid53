@@ -1,0 +1,7 @@
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\bin\Debug\06.21.19 homework3.exe.config
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\bin\Debug\06.21.19 homework3.exe
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\bin\Debug\06.21.19 homework3.pdb
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\obj\Debug\06.21.19 homework3.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\obj\Debug\06.21.19 homework3.exe
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\obj\Debug\06.21.19 homework3.pdb
+C:\Users\Cavid\source\repos\06.21.19 homework3\06.21.19 homework3\obj\Debug\06.21.19 homework3.csprojAssemblyReference.cache

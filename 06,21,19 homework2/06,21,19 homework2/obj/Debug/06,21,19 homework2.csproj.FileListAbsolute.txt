@@ -1,0 +1,7 @@
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\obj\Debug\06,21,19 homework2.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\obj\Debug\06,21,19 homework2.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\bin\Debug\06,21,19 homework2.exe.config
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\bin\Debug\06,21,19 homework2.exe
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\bin\Debug\06,21,19 homework2.pdb
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\obj\Debug\06,21,19 homework2.exe
+C:\Users\Cavid\source\repos\06,21,19 homework2\06,21,19 homework2\obj\Debug\06,21,19 homework2.pdb
